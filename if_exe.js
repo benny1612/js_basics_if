@@ -55,13 +55,26 @@ if (stock ===0){
 // )
 // }
 // exe10
-const score=58
-score >=60 ? console.log("pass"):console.log("fail") 
+// const score=58
+// score >=60 ? console.log("pass"):console.log("fail") 
+// // exe11
+// const grade =60
+// if (grade >=90){
+//     console.log("a")}
+//     else if (grade>=80){
+//         console.log("b")
+//     }
+// else {console.log("C or below")}
 // exe11
-const grade =60
-if (grade >=90){
-    console.log("a")}
-    else if (grade>=80){
-        console.log("b")
-    }
-else {console.log("C or below")}
+// const username="alice"
+// if (username){
+//     console.log(`hello ${username}`)
+// }
+// exe12
+// const grade =92
+// const attendance = 85
+// if (grade>=90 && attendance ===85){
+//     console.log()
+// }
+// exe13
+const a=5
